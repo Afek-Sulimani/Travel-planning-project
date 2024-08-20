@@ -1,4 +1,5 @@
-<h1>Name: Afek_Sulimani</h1>
+<h1>Travel-planning-project</h1>
+<p>Name: Afek_Sulimani</p>
 <p>Email: afek5353@gmail.com</p>
 
 <h1>Documentation</h1>
