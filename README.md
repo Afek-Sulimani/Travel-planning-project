@@ -8,7 +8,7 @@
  [Project explain video](https://drive.google.com/drive/folders/19qr9REHx2I8go3CAezd5qKO_uN5JAvi_?usp=drive_link)
   
 </p>
-<h1>description</h1> 
+<h1>Description</h1> 
 <p> 
  The Travel Planner application is designed to help users organize their trips effectively.
  Built using Spring Boot and Thymeleaf, users can create, manage, and share trip plans. 
