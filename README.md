@@ -4,11 +4,9 @@
 
 <h1>Documentation</h1>
 <p>
- <a href="ex5JavaDoc/index.html">JavaDoc</a>
- 
- [Project explain video](https://drive.google.com/drive/folders/19qr9REHx2I8go3CAezd5qKO_uN5JAvi_?usp=drive_link)
-  
+ <a href="TravelPlannerJavaDoc/index.html">JavaDoc</a>
 </p>
+
 <h1>Description</h1> 
 <p> 
  The Travel Planner application is designed to help users organize their trips effectively.
